@@ -5,7 +5,10 @@
 }
 
 body{    
-   background-color: rgb(237, 210, 170)
+   background-image: url("![bkgind](https://github.com/Samiha321/JOT/assets/143449201/d0f74100-86b7-47a0-9b95-1994e97a7add)");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .header{
@@ -138,7 +141,7 @@ body{
 }
 
 .banner{
-    background-image: url("C:\Users\samih\Downloads\Bckgrnd.1.png");
+    background-image: url("![College Logbook](https://github.com/Samiha321/JOT/assets/143449201/aedc7ae6-f7ea-49cf-a62d-4bf04b93532b)");
     background-size: cover;
     background-position: center;
     height: 100vh; 
