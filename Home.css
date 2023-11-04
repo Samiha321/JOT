@@ -143,7 +143,7 @@ body{
 .banner{
     background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/846e92de-c616-4d29-921f-463b32d694e8/dger02c-87b557b8-66d9-4217-b8dc-c05c9030f8c4.png/v1/fit/w_828,h_414,q_70,strp/final_college_logbook__1__by_samham321_dger02c-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjAwIiwicGF0aCI6IlwvZlwvODQ2ZTkyZGUtYzYxNi00ZDI5LTkyMWYtNDYzYjMyZDY5NGU4XC9kZ2VyMDJjLTg3YjU1N2I4LTY2ZDktNDIxNy1iOGRjLWMwNWM5MDMwZjhjNC5wbmciLCJ3aWR0aCI6Ijw9MTIwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.HK4vvqlMK1MRlkj84BrLzIUrrQlwV9tcHjjwWR8Iv_0");
     background-position: center;
-    height: 100vh; 
+    height: 100%; 
     z-index: 1:
 }
 
